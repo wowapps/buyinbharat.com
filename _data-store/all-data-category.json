@@ -1,0 +1,22 @@
+{
+  "categories": {
+    "mobile": [
+      "mi",
+      "tata",
+      "google"
+    ],
+    "smarthome": [
+      "mi",
+      "wipro"
+    ],
+    "": [],
+    "technology": [
+      "tata",
+      "google",
+      "wipro"
+    ],
+    "electronics": [
+      "wipro"
+    ]
+  }
+}

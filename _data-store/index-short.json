@@ -1,0 +1,44 @@
+{
+  "brands": {
+    "mi": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "mobile",
+        "smarthome"
+      ]
+    },
+    "xiaomi": {
+      "a": "mi",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "tata": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "mobile",
+        "technology"
+      ]
+    },
+    "google": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "technology",
+        "mobile"
+      ]
+    },
+    "wipro": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "technology",
+        "electronics",
+        "smarthome"
+      ]
+    }
+  }
+}
