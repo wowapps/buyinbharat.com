@@ -1,18 +1,19 @@
 {
   "brands": {
+    "google": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "technology",
+        "mobile"
+      ]
+    },
     "mi": {
       "a": "",
       "c": "china",
       "g": [
         "mobile",
         "smarthome"
-      ]
-    },
-    "xiaomi": {
-      "a": "mi",
-      "c": "",
-      "g": [
-        ""
       ]
     },
     "tata": {
@@ -23,14 +24,6 @@
         "technology"
       ]
     },
-    "google": {
-      "a": "",
-      "c": "usa",
-      "g": [
-        "technology",
-        "mobile"
-      ]
-    },
     "wipro": {
       "a": "",
       "c": "india",
@@ -38,6 +31,128 @@
         "technology",
         "electronics",
         "smarthome"
+      ]
+    },
+    "xiaomi": {
+      "a": "mi",
+      "c": "china",
+      "g": [
+        "mobile",
+        "smarthome"
+      ]
+    },
+    "amazon": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "e-commerce",
+        "cloudservice-provider"
+      ]
+    },
+    "asus": {
+      "a": "",
+      "c": "Taiwan",
+      "g": [
+        "desktops",
+        "PC-peripherals",
+        "laptops",
+        "smartphones",
+        "tablets",
+        "hybrid-devices"
+      ]
+    },
+    "bpl": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Medical-equipment",
+        "televisions",
+        "refrigerators",
+        "washing-machines",
+        "microwaves",
+        "audio-equipment"
+      ]
+    },
+    "godrej": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "real-estate",
+        "consumer-products",
+        "industrial-engineering",
+        "appliances",
+        "furniture",
+        "security",
+        "agricultural"
+      ]
+    },
+    "greenply": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "plywood",
+        "block-board",
+        "decorative-laminates",
+        "decorative-veneers",
+        "medium-density-fiberboards-(MDF)",
+        "Laminate-flooring",
+        "restroom-cubicles"
+      ]
+    },
+    "havells": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "home-and-kitchen-appliances",
+        "lighting-for-domestic",
+        "commercial-and-industrial-applications",
+        "LED-lighting",
+        "fans",
+        "modular-switches",
+        "wiring-accessories",
+        "water-heaters",
+        "industrial-domestic-circuit-protection-switchgear",
+        "industrial-domestic-cables",
+        "wires",
+        "induction-motors",
+        "capacitors"
+      ]
+    },
+    "hcl": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "IT-consulting",
+        "services"
+      ]
+    },
+    "intel": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "microprocessors"
+      ]
+    },
+    "mahindra": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Automobiles",
+        "Energy",
+        "Farm-equipment"
+      ]
+    },
+    "mitshubushi": {
+      "a": "",
+      "c": "Japan",
+      "g": [
+        "paper",
+        "steel",
+        "glass",
+        "electrical equipment",
+        "aircraft",
+        "oil",
+        "and real estate"
       ]
     }
   }
