@@ -58,6 +58,7 @@
       "usha",
       "wipro"
     ],
+    "": [],
     "Medical-equipment": [
       "bpl"
     ],
@@ -244,7 +245,6 @@
     ],
     "mattress": [
       "sleepwell"
-    ],
-    "": []
+    ]
   }
 }

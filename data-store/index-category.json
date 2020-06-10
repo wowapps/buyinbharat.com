@@ -12,6 +12,7 @@
   "Bike",
   "electricals",
   "electronics",
+  "",
   "Medical-equipment",
   "televisions",
   "refrigerators",
@@ -69,6 +70,5 @@
   "fridge",
   "medicine",
   "Bulb",
-  "mattress",
-  ""
+  "mattress"
 ]

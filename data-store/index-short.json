@@ -29,12 +29,19 @@
       ]
     },
     "bajaj": {
-      "a": "bajaj-auto",
+      "a": "",
       "c": "india",
       "g": [
         "Bike",
         "electricals",
         "electronics"
+      ]
+    },
+    "bajaj-auto": {
+      "a": "Bajaj",
+      "c": "",
+      "g": [
+        ""
       ]
     },
     "bpl": {
@@ -57,17 +64,31 @@
       ]
     },
     "colgate": {
-      "a": "colgate-palmolive",
+      "a": "",
       "c": "usa",
       "g": [
         "FMCG"
       ]
     },
+    "colgate-palmolive": {
+      "a": "colgate",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
     "dettol": {
-      "a": "Reckitt Benckiser",
+      "a": "",
       "c": "UK",
       "g": [
         "FMCG"
+      ]
+    },
+    "reckitt benckiser": {
+      "a": "Dettol",
+      "c": "",
+      "g": [
+        ""
       ]
     },
     "godrej": {
@@ -132,11 +153,25 @@
       ]
     },
     "hindustan uniliver": {
-      "a": "kissan, pureit",
+      "a": "",
       "c": "india",
       "g": [
         "FMCG",
         "water-purifier"
+      ]
+    },
+    "kissan": {
+      "a": "hindustan uniliver",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "pureit": {
+      "a": "hindustan uniliver",
+      "c": "",
+      "g": [
+        ""
       ]
     },
     "intel": {
@@ -147,12 +182,19 @@
       ]
     },
     "itc": {
-      "a": "ITC Limited",
+      "a": "",
       "c": "india",
       "g": [
         "Ciggarette",
         "IT",
         "FMCG"
+      ]
+    },
+    "itc limited": {
+      "a": "ITC",
+      "c": "",
+      "g": [
+        ""
       ]
     },
     "mahindra": {
@@ -279,12 +321,19 @@
       ]
     },
     "tata": {
-      "a": "voltas",
+      "a": "",
       "c": "india",
       "g": [
         "Automobiles",
         "FMCG",
         "AC"
+      ]
+    },
+    "voltas": {
+      "a": "Tata",
+      "c": "",
+      "g": [
+        ""
       ]
     },
     "usha": {
