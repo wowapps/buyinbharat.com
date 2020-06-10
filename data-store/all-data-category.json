@@ -1,29 +1,27 @@
 {
   "categories": {
-    "technology": [
-      "google",
-      "tata",
-      "wipro"
-    ],
-    "mobile": [
-      "google",
-      "mi",
-      "tata",
-      "xiaomi"
-    ],
-    "smarthome": [
-      "mi",
-      "wipro",
-      "xiaomi"
-    ],
-    "electronics": [
-      "wipro"
-    ],
     "e-commerce": [
-      "amazon"
+      "amazon",
+      "snapdeal"
     ],
     "cloudservice-provider": [
       "amazon"
+    ],
+    "mobile": [
+      "apple",
+      "google",
+      "mi",
+      "nokia",
+      "oneplus",
+      "oppo",
+      "panasonic",
+      "realme",
+      "samsung",
+      "tata",
+      "vivo"
+    ],
+    "computer": [
+      "apple"
     ],
     "desktops": [
       "asus"
@@ -43,6 +41,23 @@
     "hybrid-devices": [
       "asus"
     ],
+    "Bike": [
+      "bajaj"
+    ],
+    "electricals": [
+      "bajaj",
+      "philips",
+      "syska",
+      "usha"
+    ],
+    "electronics": [
+      "bajaj",
+      "philips",
+      "samsung",
+      "syska",
+      "usha",
+      "wipro"
+    ],
     "Medical-equipment": [
       "bpl"
     ],
@@ -60,6 +75,16 @@
     ],
     "audio-equipment": [
       "bpl"
+    ],
+    "FMCG": [
+      "britannia",
+      "colgate",
+      "dettol",
+      "hindustan uniliver",
+      "itc",
+      "parle",
+      "patanjali",
+      "tata"
     ],
     "real-estate": [
       "godrej"
@@ -81,6 +106,11 @@
     ],
     "agricultural": [
       "godrej"
+    ],
+    "technology": [
+      "google",
+      "tata",
+      "wipro"
     ],
     "plywood": [
       "greenply"
@@ -148,17 +178,31 @@
     "services": [
       "hcl"
     ],
+    "water-purifier": [
+      "hindustan uniliver"
+    ],
     "microprocessors": [
       "intel"
     ],
+    "Ciggarette": [
+      "itc"
+    ],
+    "IT": [
+      "itc"
+    ],
     "Automobiles": [
-      "mahindra"
+      "mahindra",
+      "tata"
     ],
     "Energy": [
       "mahindra"
     ],
     "Farm-equipment": [
       "mahindra"
+    ],
+    "smarthome": [
+      "mi",
+      "wipro"
     ],
     "paper": [
       "mitshubushi"
@@ -180,6 +224,27 @@
     ],
     "and real estate": [
       "mitshubushi"
-    ]
+    ],
+    "AC": [
+      "panasonic",
+      "tata"
+    ],
+    "TV": [
+      "panasonic"
+    ],
+    "fridge": [
+      "panasonic"
+    ],
+    "medicine": [
+      "patanjali"
+    ],
+    "Bulb": [
+      "philips",
+      "syska"
+    ],
+    "mattress": [
+      "sleepwell"
+    ],
+    "": []
   }
 }

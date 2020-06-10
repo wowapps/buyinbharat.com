@@ -1,0 +1,13 @@
+{
+  "brand": "bajaj",
+  "alias": "bajaj-auto",
+  "country": "india",
+  "groups": [
+    "Bike",
+    "electricals",
+    "electronics"
+  ],
+  "references": [
+    ""
+  ]
+}

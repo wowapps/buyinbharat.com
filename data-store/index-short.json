@@ -1,52 +1,19 @@
 {
   "brands": {
-    "google": {
-      "a": "",
-      "c": "usa",
-      "g": [
-        "technology",
-        "mobile"
-      ]
-    },
-    "mi": {
-      "a": "",
-      "c": "china",
-      "g": [
-        "mobile",
-        "smarthome"
-      ]
-    },
-    "tata": {
-      "a": "",
-      "c": "india",
-      "g": [
-        "mobile",
-        "technology"
-      ]
-    },
-    "wipro": {
-      "a": "",
-      "c": "india",
-      "g": [
-        "technology",
-        "electronics",
-        "smarthome"
-      ]
-    },
-    "xiaomi": {
-      "a": "mi",
-      "c": "china",
-      "g": [
-        "mobile",
-        "smarthome"
-      ]
-    },
     "amazon": {
       "a": "",
       "c": "usa",
       "g": [
         "e-commerce",
         "cloudservice-provider"
+      ]
+    },
+    "apple": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "mobile",
+        "computer"
       ]
     },
     "asus": {
@@ -61,6 +28,15 @@
         "hybrid-devices"
       ]
     },
+    "bajaj": {
+      "a": "bajaj-auto",
+      "c": "india",
+      "g": [
+        "Bike",
+        "electricals",
+        "electronics"
+      ]
+    },
     "bpl": {
       "a": "",
       "c": "india",
@@ -71,6 +47,27 @@
         "washing-machines",
         "microwaves",
         "audio-equipment"
+      ]
+    },
+    "britannia": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "FMCG"
+      ]
+    },
+    "colgate": {
+      "a": "colgate-palmolive",
+      "c": "usa",
+      "g": [
+        "FMCG"
+      ]
+    },
+    "dettol": {
+      "a": "Reckitt Benckiser",
+      "c": "UK",
+      "g": [
+        "FMCG"
       ]
     },
     "godrej": {
@@ -84,6 +81,14 @@
         "furniture",
         "security",
         "agricultural"
+      ]
+    },
+    "google": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "technology",
+        "mobile"
       ]
     },
     "greenply": {
@@ -126,11 +131,28 @@
         "services"
       ]
     },
+    "hindustan uniliver": {
+      "a": "kissan, pureit",
+      "c": "india",
+      "g": [
+        "FMCG",
+        "water-purifier"
+      ]
+    },
     "intel": {
       "a": "",
       "c": "usa",
       "g": [
         "microprocessors"
+      ]
+    },
+    "itc": {
+      "a": "ITC Limited",
+      "c": "india",
+      "g": [
+        "Ciggarette",
+        "IT",
+        "FMCG"
       ]
     },
     "mahindra": {
@@ -140,6 +162,14 @@
         "Automobiles",
         "Energy",
         "Farm-equipment"
+      ]
+    },
+    "mi": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "mobile",
+        "smarthome"
       ]
     },
     "mitshubushi": {
@@ -153,6 +183,139 @@
         "aircraft",
         "oil",
         "and real estate"
+      ]
+    },
+    "nokia": {
+      "a": "",
+      "c": "Finland",
+      "g": [
+        "mobile"
+      ]
+    },
+    "oneplus": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "mobile"
+      ]
+    },
+    "oppo": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "mobile"
+      ]
+    },
+    "panasonic": {
+      "a": "",
+      "c": "Japan",
+      "g": [
+        "AC",
+        "TV",
+        "fridge",
+        "mobile"
+      ]
+    },
+    "parle": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "FMCG"
+      ]
+    },
+    "patanjali": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "FMCG",
+        "medicine"
+      ]
+    },
+    "philips": {
+      "a": "",
+      "c": "Netherlands",
+      "g": [
+        "Bulb",
+        "electronics",
+        "electricals"
+      ]
+    },
+    "realme": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "mobile"
+      ]
+    },
+    "samsung": {
+      "a": "",
+      "c": "korea",
+      "g": [
+        "mobile",
+        "electronics"
+      ]
+    },
+    "sleepwell": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "mattress"
+      ]
+    },
+    "snapdeal": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "e-commerce"
+      ]
+    },
+    "syska": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "Bulb",
+        "electronics",
+        "electricals"
+      ]
+    },
+    "tata": {
+      "a": "voltas",
+      "c": "india",
+      "g": [
+        "Automobiles",
+        "FMCG",
+        "AC"
+      ]
+    },
+    "usha": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "electricals",
+        "electronics"
+      ]
+    },
+    "vivo": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "mobile"
+      ]
+    },
+    "wipro": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "technology",
+        "electronics",
+        "smarthome"
+      ]
+    },
+    "xiaomi": {
+      "a": "mi",
+      "c": "",
+      "g": [
+        ""
       ]
     }
   }

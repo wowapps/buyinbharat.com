@@ -1,13 +1,11 @@
 {
   "brand": "xiaomi",
   "alias": "mi",
-  "country": "china",
+  "country": "",
   "groups": [
-    "mobile",
-    "smarthome"
+    ""
   ],
   "references": [
-    "https://en.wikipedia.org/wiki/Xiaomi",
-    "https://www.mi.com/global/about"
+    ""
   ]
 }
