@@ -95,13 +95,9 @@
       "a": "",
       "c": "india",
       "g": [
-        "real-estate",
         "consumer-products",
-        "industrial-engineering",
         "appliances",
-        "furniture",
-        "security",
-        "agricultural"
+        "furniture"
       ]
     },
     "google": {
@@ -119,29 +115,17 @@
         "plywood",
         "block-board",
         "decorative-laminates",
-        "decorative-veneers",
-        "medium-density-fiberboards-(MDF)",
-        "Laminate-flooring",
-        "restroom-cubicles"
+        "Laminate-flooring"
       ]
     },
     "havells": {
       "a": "",
       "c": "india",
       "g": [
-        "home-and-kitchen-appliances",
-        "lighting-for-domestic",
-        "commercial-and-industrial-applications",
         "LED-lighting",
         "fans",
         "modular-switches",
-        "wiring-accessories",
-        "water-heaters",
-        "industrial-domestic-circuit-protection-switchgear",
-        "industrial-domestic-cables",
-        "wires",
-        "induction-motors",
-        "capacitors"
+        "water-heaters"
       ]
     },
     "hcl": {
@@ -214,7 +198,7 @@
         "smarthome"
       ]
     },
-    "mitshubushi": {
+    "mitsubishi": {
       "a": "",
       "c": "Japan",
       "g": [
