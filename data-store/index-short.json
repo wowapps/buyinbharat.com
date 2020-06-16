@@ -435,6 +435,240 @@
         "laptop",
         "mobile"
       ]
+    },
+    "sony": {
+      "a": "",
+      "c": "japan",
+      "g": [
+        "laptop",
+        "mobile",
+        "electronics",
+        "television",
+        "movies"
+      ]
+    },
+    "baidu": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "Technology"
+      ]
+    },
+    "haier": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics"
+      ]
+    },
+    "huawei": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics",
+        "mobile",
+        "networking"
+      ]
+    },
+    "tcl": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics"
+      ]
+    },
+    "tp-link": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics",
+        "mobile",
+        "networking"
+      ]
+    },
+    "zte": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics",
+        "mobile",
+        "networking"
+      ]
+    },
+    "jindal": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Steel",
+        "Power"
+      ]
+    },
+    "ola": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "cab"
+      ]
+    },
+    "uber": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "cab"
+      ]
+    },
+    "flipkart": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "shopping"
+      ]
+    },
+    "paytm": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "shopping"
+      ]
+    },
+    "coolpad": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "mobile"
+      ]
+    },
+    "motorola": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "mobile",
+        "technology"
+      ]
+    },
+    "tecno": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics",
+        "mobile",
+        "television"
+      ]
+    },
+    "honor": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics",
+        "mobile"
+      ]
+    },
+    "gionee": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics",
+        "mobile"
+      ]
+    },
+    "gfive": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "electronics",
+        "mobile"
+      ]
+    },
+    "uc browser": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "tik tok": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "vigo video": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "news republic": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "pubg": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "wechat": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "whatscall": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "cheetah keyboard": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "cm browser": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "tap tap dash": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "battery doctor": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "clean master": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
+    },
+    "cm backup": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "software"
+      ]
     }
   }
 }

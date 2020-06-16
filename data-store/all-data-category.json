@@ -18,7 +18,17 @@
       "realme",
       "samsung",
       "vivo",
-      "lenovo"
+      "lenovo",
+      "sony",
+      "huawei",
+      "tp-link",
+      "zte",
+      "coolpad",
+      "motorola",
+      "tecno",
+      "honor",
+      "gionee",
+      "gfive"
     ],
     "computer": [
       "apple"
@@ -56,7 +66,17 @@
       "samsung",
       "syska",
       "usha",
-      "wipro"
+      "wipro",
+      "sony",
+      "haier",
+      "huawei",
+      "tcl",
+      "tp-link",
+      "zte",
+      "tecno",
+      "honor",
+      "gionee",
+      "gfive"
     ],
     "": [],
     "Medical-equipment": [
@@ -111,7 +131,8 @@
     "technology": [
       "google",
       "wipro",
-      "infosys"
+      "infosys",
+      "motorola"
     ],
     "plywood": [
       "greenply"
@@ -258,10 +279,54 @@
       "dabur"
     ],
     "software": [
-      "infosys"
+      "infosys",
+      "uc browser",
+      "tik tok",
+      "vigo video",
+      "news republic",
+      "pubg",
+      "wechat",
+      "whatscall",
+      "cheetah keyboard",
+      "cm browser",
+      "tap tap dash",
+      "battery doctor",
+      "clean master",
+      "cm backup",
+      "cm browser"
     ],
     "laptop": [
-      "lenovo"
+      "lenovo",
+      "sony"
+    ],
+    "television": [
+      "sony",
+      "tecno"
+    ],
+    "movies": [
+      "sony"
+    ],
+    "Technology": [
+      "baidu"
+    ],
+    "networking": [
+      "huawei",
+      "tp-link",
+      "zte"
+    ],
+    "Steel": [
+      "jindal"
+    ],
+    "Power": [
+      "jindal"
+    ],
+    "cab": [
+      "ola",
+      "uber"
+    ],
+    "shopping": [
+      "flipkart",
+      "paytm"
     ]
   }
 }
