@@ -17,7 +17,8 @@
       "panasonic",
       "realme",
       "samsung",
-      "vivo"
+      "vivo",
+      "lenovo"
     ],
     "computer": [
       "apple"
@@ -258,6 +259,9 @@
     ],
     "software": [
       "infosys"
+    ],
+    "laptop": [
+      "lenovo"
     ]
   }
 }

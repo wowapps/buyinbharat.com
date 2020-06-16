@@ -427,6 +427,14 @@
         "software",
         "technology"
       ]
+    },
+    "lenovo": {
+      "a": "",
+      "c": "china",
+      "g": [
+        "laptop",
+        "mobile"
+      ]
     }
   }
 }
