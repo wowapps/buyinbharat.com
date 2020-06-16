@@ -95,9 +95,13 @@
       "a": "",
       "c": "india",
       "g": [
+        "real-estate",
         "consumer-products",
+        "industrial-engineering",
         "appliances",
-        "furniture"
+        "furniture",
+        "security",
+        "agricultural"
       ]
     },
     "google": {
@@ -115,17 +119,29 @@
         "plywood",
         "block-board",
         "decorative-laminates",
-        "Laminate-flooring"
+        "decorative-veneers",
+        "medium-density-fiberboards-(MDF)",
+        "Laminate-flooring",
+        "restroom-cubicles"
       ]
     },
     "havells": {
       "a": "",
       "c": "india",
       "g": [
+        "home-and-kitchen-appliances",
+        "lighting-for-domestic",
+        "commercial-and-industrial-applications",
         "LED-lighting",
         "fans",
         "modular-switches",
-        "water-heaters"
+        "wiring-accessories",
+        "water-heaters",
+        "industrial-domestic-circuit-protection-switchgear",
+        "industrial-domestic-cables",
+        "wires",
+        "induction-motors",
+        "capacitors"
       ]
     },
     "hcl": {
@@ -171,7 +187,9 @@
       "g": [
         "Ciggarette",
         "IT",
-        "FMCG"
+        "FMCG",
+        "food",
+        "beverages"
       ]
     },
     "itc limited": {
@@ -198,7 +216,7 @@
         "smarthome"
       ]
     },
-    "mitsubishi": {
+    "mitshubushi": {
       "a": "",
       "c": "Japan",
       "g": [
@@ -246,7 +264,8 @@
       "a": "",
       "c": "india",
       "g": [
-        "FMCG"
+        "FMCG",
+        "food"
       ]
     },
     "patanjali": {
@@ -349,6 +368,64 @@
       "c": "",
       "g": [
         ""
+      ]
+    },
+    "dabur": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "kitchen",
+        "food"
+      ]
+    },
+    "aashirvaad": {
+      "a": "itc",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "b natural": {
+      "a": "itc",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "sunfeast": {
+      "a": "itc",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "candyman": {
+      "a": "itc",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "bingo": {
+      "a": "itc",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "yippee": {
+      "a": "itc",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "infosys": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "software",
+        "technology"
       ]
     }
   }

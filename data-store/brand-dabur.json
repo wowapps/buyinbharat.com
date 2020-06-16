@@ -1,12 +1,12 @@
 {
-  "brand": "parle",
+  "brand": "dabur",
   "alias": "",
   "country": "india",
   "groups": [
-    "FMCG",
+    "kitchen",
     "food"
   ],
   "references": [
-    ""
+    "https://en.wikipedia.org/wiki/Dabur"
   ]
 }

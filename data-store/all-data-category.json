@@ -86,7 +86,13 @@
       "patanjali",
       "tata"
     ],
+    "real-estate": [
+      "godrej"
+    ],
     "consumer-products": [
+      "godrej"
+    ],
+    "industrial-engineering": [
       "godrej"
     ],
     "appliances": [
@@ -95,9 +101,16 @@
     "furniture": [
       "godrej"
     ],
+    "security": [
+      "godrej"
+    ],
+    "agricultural": [
+      "godrej"
+    ],
     "technology": [
       "google",
-      "wipro"
+      "wipro",
+      "infosys"
     ],
     "plywood": [
       "greenply"
@@ -108,8 +121,26 @@
     "decorative-laminates": [
       "greenply"
     ],
+    "decorative-veneers": [
+      "greenply"
+    ],
+    "medium-density-fiberboards-(MDF)": [
+      "greenply"
+    ],
     "Laminate-flooring": [
       "greenply"
+    ],
+    "restroom-cubicles": [
+      "greenply"
+    ],
+    "home-and-kitchen-appliances": [
+      "havells"
+    ],
+    "lighting-for-domestic": [
+      "havells"
+    ],
+    "commercial-and-industrial-applications": [
+      "havells"
     ],
     "LED-lighting": [
       "havells"
@@ -120,7 +151,25 @@
     "modular-switches": [
       "havells"
     ],
+    "wiring-accessories": [
+      "havells"
+    ],
     "water-heaters": [
+      "havells"
+    ],
+    "industrial-domestic-circuit-protection-switchgear": [
+      "havells"
+    ],
+    "industrial-domestic-cables": [
+      "havells"
+    ],
+    "wires": [
+      "havells"
+    ],
+    "induction-motors": [
+      "havells"
+    ],
+    "capacitors": [
       "havells"
     ],
     "IT-consulting": [
@@ -141,6 +190,14 @@
     "IT": [
       "itc"
     ],
+    "food": [
+      "itc",
+      "parle",
+      "dabur"
+    ],
+    "beverages": [
+      "itc"
+    ],
     "Automobiles": [
       "mahindra",
       "tata"
@@ -156,25 +213,25 @@
       "wipro"
     ],
     "paper": [
-      "mitsubishi"
+      "mitshubushi"
     ],
     "steel": [
-      "mitsubishi"
+      "mitshubushi"
     ],
     "glass": [
-      "mitsubishi"
+      "mitshubushi"
     ],
     "electrical equipment": [
-      "mitsubishi"
+      "mitshubushi"
     ],
     "aircraft": [
-      "mitsubishi"
+      "mitshubushi"
     ],
     "oil": [
-      "mitsubishi"
+      "mitshubushi"
     ],
     "and real estate": [
-      "mitsubishi"
+      "mitshubushi"
     ],
     "AC": [
       "panasonic",
@@ -195,6 +252,12 @@
     ],
     "mattress": [
       "sleepwell"
+    ],
+    "kitchen": [
+      "dabur"
+    ],
+    "software": [
+      "infosys"
     ]
   }
 }
