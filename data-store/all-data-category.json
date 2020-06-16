@@ -107,6 +107,12 @@
       "patanjali",
       "tata"
     ],
+    "food": [
+      "britannia",
+      "itc",
+      "parle",
+      "dabur"
+    ],
     "real-estate": [
       "godrej"
     ],
@@ -212,11 +218,6 @@
     "IT": [
       "itc"
     ],
-    "food": [
-      "itc",
-      "parle",
-      "dabur"
-    ],
     "beverages": [
       "itc"
     ],
@@ -276,7 +277,8 @@
       "sleepwell"
     ],
     "kitchen": [
-      "dabur"
+      "dabur",
+      "borosil"
     ],
     "software": [
       "infosys",
@@ -327,6 +329,9 @@
     "shopping": [
       "flipkart",
       "paytm"
+    ],
+    "glassware": [
+      "borosil"
     ]
   }
 }

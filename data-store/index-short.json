@@ -60,7 +60,8 @@
       "a": "",
       "c": "india",
       "g": [
-        "FMCG"
+        "FMCG",
+        "food"
       ]
     },
     "colgate": {
@@ -668,6 +669,14 @@
       "c": "china",
       "g": [
         "software"
+      ]
+    },
+    "borosil": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "kitchen",
+        "glassware"
       ]
     }
   }
