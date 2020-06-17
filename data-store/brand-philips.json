@@ -3,11 +3,9 @@
   "alias": "",
   "country": "Netherlands",
   "groups": [
-    "Bulb",
-    "electronics",
-    "electricals"
+    "electronics"
   ],
   "references": [
-    ""
+    "https://en.wikipedia.org/wiki/Philips"
   ]
 }

@@ -130,19 +130,7 @@
       "a": "",
       "c": "india",
       "g": [
-        "home-and-kitchen-appliances",
-        "lighting-for-domestic",
-        "commercial-and-industrial-applications",
-        "LED-lighting",
-        "fans",
-        "modular-switches",
-        "wiring-accessories",
-        "water-heaters",
-        "industrial-domestic-circuit-protection-switchgear",
-        "industrial-domestic-cables",
-        "wires",
-        "induction-motors",
-        "capacitors"
+        "electronics"
       ]
     },
     "hcl": {
@@ -281,9 +269,7 @@
       "a": "",
       "c": "Netherlands",
       "g": [
-        "Bulb",
-        "electronics",
-        "electricals"
+        "electronics"
       ]
     },
     "realme": {
@@ -344,7 +330,6 @@
       "a": "",
       "c": "india",
       "g": [
-        "electricals",
         "electronics"
       ]
     },
@@ -677,6 +662,186 @@
       "g": [
         "kitchen",
         "glassware"
+      ]
+    },
+    "monaco biscuit": {
+      "a": "parle",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "fenda audio": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "audio",
+        "electronics"
+      ]
+    },
+    "f&d": {
+      "a": "Fenda audio",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "crompton": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "electronics"
+      ]
+    },
+    "onida": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "electronics"
+      ]
+    },
+    "nilkamal": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "plastic",
+        "furniture"
+      ]
+    },
+    "microsoft": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "software",
+        "technology"
+      ]
+    },
+    "daikin": {
+      "a": "",
+      "c": "japan",
+      "g": [
+        "electronics"
+      ]
+    },
+    "hamilton": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Glassware",
+        "kitchen"
+      ]
+    },
+    "treo": {
+      "a": "hamilton",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "milton": {
+      "a": "hamilton",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "claro": {
+      "a": "hamilton",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "spotzero": {
+      "a": "hamilton",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "jio": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "mobile",
+        "telecom"
+      ]
+    },
+    "birla": {
+      "a": "",
+      "c": "india",
+      "g": [
+        ""
+      ]
+    },
+    "idea telecom": {
+      "a": "vodafone",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "tvs": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "automobile"
+      ]
+    },
+    "maruti": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "automobile"
+      ]
+    },
+    "suzuki": {
+      "a": "",
+      "c": "japan",
+      "g": [
+        "automobile"
+      ]
+    },
+    "hero motocorp": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "automobile"
+      ]
+    },
+    "honda": {
+      "a": "",
+      "c": "japan",
+      "g": [
+        "automobile"
+      ]
+    },
+    "ford motor company": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "automobile"
+      ]
+    },
+    "nissan": {
+      "a": "",
+      "c": "japan",
+      "g": [
+        "automobile"
+      ]
+    },
+    "datsun": {
+      "a": "Nissan",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "renault": {
+      "a": "",
+      "c": "France",
+      "g": [
+        "automobile"
       ]
     }
   }

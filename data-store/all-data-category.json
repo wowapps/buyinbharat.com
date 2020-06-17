@@ -28,7 +28,8 @@
       "tecno",
       "honor",
       "gionee",
-      "gfive"
+      "gfive",
+      "jio"
     ],
     "computer": [
       "apple"
@@ -76,7 +77,14 @@
       "tecno",
       "honor",
       "gionee",
-      "gfive"
+      "gfive",
+      "fenda audio",
+      "usha",
+      "crompton",
+      "havells",
+      "philips",
+      "onida",
+      "daikin"
     ],
     "": [],
     "Medical-equipment": [
@@ -126,7 +134,8 @@
       "godrej"
     ],
     "furniture": [
-      "godrej"
+      "godrej",
+      "nilkamal"
     ],
     "security": [
       "godrej"
@@ -138,7 +147,8 @@
       "google",
       "wipro",
       "infosys",
-      "motorola"
+      "motorola",
+      "microsoft"
     ],
     "plywood": [
       "greenply"
@@ -278,7 +288,8 @@
     ],
     "kitchen": [
       "dabur",
-      "borosil"
+      "borosil",
+      "hamilton"
     ],
     "software": [
       "infosys",
@@ -295,7 +306,8 @@
       "battery doctor",
       "clean master",
       "cm backup",
-      "cm browser"
+      "cm browser",
+      "microsoft"
     ],
     "laptop": [
       "lenovo",
@@ -332,6 +344,28 @@
     ],
     "glassware": [
       "borosil"
+    ],
+    "audio": [
+      "fenda audio"
+    ],
+    "plastic": [
+      "nilkamal"
+    ],
+    "Glassware": [
+      "hamilton"
+    ],
+    "telecom": [
+      "jio"
+    ],
+    "automobile": [
+      "tvs",
+      "maruti",
+      "suzuki",
+      "hero motocorp",
+      "honda",
+      "ford motor company",
+      "nissan",
+      "renault"
     ]
   }
 }

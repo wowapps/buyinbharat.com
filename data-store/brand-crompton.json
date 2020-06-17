@@ -1,14 +1,11 @@
 {
-  "brand": "usha",
+  "brand": "crompton",
   "alias": "",
   "country": "india",
   "groups": [
     "electronics"
   ],
   "references": [
-    ""
-  ]
-}es": [
-    ""
+    "https://www.crompton.co.in/about-us/"
   ]
 }

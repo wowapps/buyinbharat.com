@@ -1,14 +1,12 @@
 {
-  "brand": "usha",
+  "brand": "jio",
   "alias": "",
   "country": "india",
   "groups": [
-    "electronics"
+    "mobile",
+    "telecom"
   ],
   "references": [
-    ""
-  ]
-}es": [
     ""
   ]
 }

@@ -3,9 +3,12 @@
   "alias": "",
   "country": "india",
   "groups": [
-    "home-and-kitchen-appliances",
-    "lighting-for-domestic",
-    "commercial-and-industrial-applications",
+    "electronics"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Havells"
+  ]
+}rial-applications",
     "LED-lighting",
     "fans",
     "modular-switches",

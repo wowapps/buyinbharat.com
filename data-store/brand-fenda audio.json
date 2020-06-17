@@ -1,14 +1,12 @@
 {
-  "brand": "usha",
+  "brand": "fenda audio",
   "alias": "",
   "country": "india",
   "groups": [
+    "audio",
     "electronics"
   ],
   "references": [
-    ""
-  ]
-}es": [
-    ""
+    "https://www.fendaaudio.com/"
   ]
 }
