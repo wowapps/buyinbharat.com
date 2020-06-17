@@ -4,8 +4,8 @@
       "a": "",
       "c": "usa",
       "g": [
-        "e-commerce",
-        "cloudservice-provider"
+        "ecommerce",
+        "cloudservices"
       ]
     },
     "apple": {
@@ -153,23 +153,30 @@
         "services"
       ]
     },
-    "hindustan uniliver": {
+    "unilever": {
       "a": "",
-      "c": "india",
+      "c": "England",
       "g": [
         "FMCG",
         "water-purifier"
       ]
     },
+    "hindustan uniliver": {
+      "a": "Unilever",
+      "c": "india",
+      "g": [
+        ""
+      ]
+    },
     "kissan": {
-      "a": "hindustan uniliver",
+      "a": "Unilever",
       "c": "",
       "g": [
         ""
       ]
     },
     "pureit": {
-      "a": "hindustan uniliver",
+      "a": "Unilever",
       "c": "",
       "g": [
         ""

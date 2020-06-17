@@ -1,10 +1,9 @@
 {
   "categories": {
-    "e-commerce": [
-      "amazon",
-      "snapdeal"
+    "ecommerce": [
+      "amazon"
     ],
-    "cloudservice-provider": [
+    "cloudservices": [
       "amazon"
     ],
     "mobile": [
@@ -108,7 +107,7 @@
       "britannia",
       "colgate",
       "dettol",
-      "hindustan uniliver",
+      "unilever",
       "itc",
       "parle",
       "patanjali",
@@ -217,7 +216,7 @@
       "hcl"
     ],
     "water-purifier": [
-      "hindustan uniliver"
+      "unilever"
     ],
     "microprocessors": [
       "intel"
@@ -285,6 +284,9 @@
     ],
     "mattress": [
       "sleepwell"
+    ],
+    "e-commerce": [
+      "snapdeal"
     ],
     "kitchen": [
       "dabur",
