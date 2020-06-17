@@ -789,6 +789,14 @@
         ""
       ]
     },
+    "vodafone": {
+      "a": "",
+      "c": "england",
+      "g": [
+        "mobile",
+        "telecom"
+      ]
+    },
     "idea telecom": {
       "a": "vodafone",
       "c": "",

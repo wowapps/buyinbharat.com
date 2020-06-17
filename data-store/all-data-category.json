@@ -29,7 +29,8 @@
       "honor",
       "gionee",
       "gfive",
-      "jio"
+      "jio",
+      "vodafone"
     ],
     "computer": [
       "apple",
@@ -354,7 +355,8 @@
       "hamilton"
     ],
     "telecom": [
-      "jio"
+      "jio",
+      "vodafone"
     ],
     "automobile": [
       "tvs",
