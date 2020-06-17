@@ -130,7 +130,19 @@
       "a": "",
       "c": "india",
       "g": [
-        "electronics"
+        "home-and-kitchen-appliances",
+        "lighting-for-domestic",
+        "commercial-and-industrial-applications",
+        "LED-lighting",
+        "fans",
+        "modular-switches",
+        "wiring-accessories",
+        "water-heaters",
+        "industrial-domestic-circuit-protection-switchgear",
+        "industrial-domestic-cables",
+        "wires",
+        "induction-motors",
+        "capacitors"
       ]
     },
     "hcl": {
@@ -269,7 +281,9 @@
       "a": "",
       "c": "Netherlands",
       "g": [
-        "electronics"
+        "Bulb",
+        "electronics",
+        "electricals"
       ]
     },
     "realme": {
@@ -324,13 +338,6 @@
       "c": "",
       "g": [
         ""
-      ]
-    },
-    "usha": {
-      "a": "",
-      "c": "india",
-      "g": [
-        "electronics"
       ]
     },
     "vivo": {
@@ -686,6 +693,14 @@
         ""
       ]
     },
+    "usha": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "electricals",
+        "electronics"
+      ]
+    },
     "crompton": {
       "a": "",
       "c": "india",
@@ -842,6 +857,107 @@
       "c": "France",
       "g": [
         "automobile"
+      ]
+    },
+    "youtube": {
+      "a": "google",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "future group": {
+      "a": "",
+      "c": "india",
+      "g": [
+        ""
+      ]
+    },
+    "big bazaar": {
+      "a": "future group",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "emami": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "fmcg",
+        "beauty",
+        "skincare"
+      ]
+    },
+    "boroplus": {
+      "a": "Emami",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "vicco group": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "fmcg",
+        "beauty",
+        "skincare"
+      ]
+    },
+    "engage perfume": {
+      "a": "itc",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "mortein": {
+      "a": "",
+      "c": "Australia",
+      "g": [
+        "home",
+        "fmcg",
+        "pest control"
+      ]
+    },
+    "johnson & son": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "home",
+        "fmcg",
+        "pest control"
+      ]
+    },
+    "allout": {
+      "a": "Johnson & Son",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "rupani footwear": {
+      "a": "",
+      "c": "india",
+      "g": [
+        ""
+      ]
+    },
+    "lakhani": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "footwear"
+      ]
+    },
+    "iball": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "technology",
+        "networking",
+        "computer"
       ]
     }
   }

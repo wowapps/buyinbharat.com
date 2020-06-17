@@ -32,7 +32,8 @@
       "jio"
     ],
     "computer": [
-      "apple"
+      "apple",
+      "iball"
     ],
     "desktops": [
       "asus"
@@ -66,7 +67,6 @@
       "philips",
       "samsung",
       "syska",
-      "usha",
       "wipro",
       "sony",
       "haier",
@@ -81,8 +81,6 @@
       "fenda audio",
       "usha",
       "crompton",
-      "havells",
-      "philips",
       "onida",
       "daikin"
     ],
@@ -148,7 +146,8 @@
       "wipro",
       "infosys",
       "motorola",
-      "microsoft"
+      "microsoft",
+      "iball"
     ],
     "plywood": [
       "greenply"
@@ -306,7 +305,6 @@
       "battery doctor",
       "clean master",
       "cm backup",
-      "cm browser",
       "microsoft"
     ],
     "laptop": [
@@ -326,7 +324,8 @@
     "networking": [
       "huawei",
       "tp-link",
-      "zte"
+      "zte",
+      "iball"
     ],
     "Steel": [
       "jindal"
@@ -366,6 +365,31 @@
       "ford motor company",
       "nissan",
       "renault"
+    ],
+    "fmcg": [
+      "emami",
+      "vicco group",
+      "mortein",
+      "johnson & son"
+    ],
+    "beauty": [
+      "emami",
+      "vicco group"
+    ],
+    "skincare": [
+      "emami",
+      "vicco group"
+    ],
+    "home": [
+      "mortein",
+      "johnson & son"
+    ],
+    "pest control": [
+      "mortein",
+      "johnson & son"
+    ],
+    "footwear": [
+      "lakhani"
     ]
   }
 }
