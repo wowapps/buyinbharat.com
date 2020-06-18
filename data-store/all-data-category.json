@@ -1,7 +1,8 @@
 {
   "categories": {
     "ecommerce": [
-      "amazon"
+      "amazon",
+      "alibaba"
     ],
     "cloudservices": [
       "amazon"
@@ -30,11 +31,16 @@
       "gfive",
       "jio",
       "vodafone",
-      "micromax"
+      "micromax",
+      "oneplus‎",
+      "alcatel mobile",
+      "alcatel",
+      "infinix mobile"
     ],
     "computer": [
       "apple",
-      "iball"
+      "iball",
+      "yi technology"
     ],
     "desktops": [
       "asus"
@@ -85,7 +91,9 @@
       "crompton",
       "onida",
       "daikin",
-      "micromax"
+      "micromax",
+      "meizu",
+      "quantum hi-tech"
     ],
     "": [],
     "Medical-equipment": [
@@ -141,7 +149,8 @@
       "nilkamal"
     ],
     "security": [
-      "godrej"
+      "godrej",
+      "yi technology"
     ],
     "agricultural": [
       "godrej"
@@ -152,7 +161,8 @@
       "infosys",
       "motorola",
       "microsoft",
-      "iball"
+      "iball",
+      "alibaba"
     ],
     "plywood": [
       "greenply"
@@ -313,7 +323,8 @@
       "battery doctor",
       "clean master",
       "cm backup",
-      "microsoft"
+      "microsoft",
+      "antutu"
     ],
     "laptop": [
       "lenovo",
@@ -321,7 +332,8 @@
     ],
     "television": [
       "sony",
-      "tecno"
+      "tecno",
+      "oneplus‎"
     ],
     "movies": [
       "sony"
@@ -363,7 +375,9 @@
     ],
     "telecom": [
       "jio",
-      "vodafone"
+      "vodafone",
+      "alcatel mobile",
+      "alcatel"
     ],
     "automobile": [
       "tvs",
@@ -449,6 +463,69 @@
     ],
     "Hair Conditioner": [
       "silk & shine"
+    ],
+    "camera": [
+      "dji‎",
+      "yi technology"
+    ],
+    "drone": [
+      "dji‎"
+    ],
+    "cloud": [
+      "alibaba"
+    ],
+    "music system": [
+      "edifier"
+    ],
+    "mobile app": [
+      "tiktok",
+      "vault-hide",
+      "bigo live",
+      "weibo",
+      "shareit",
+      "uc news",
+      "beautyplus",
+      "xender",
+      "clubfactory",
+      "helo",
+      "like",
+      "kwai",
+      "romwe",
+      "shein",
+      "newsdog",
+      "photo wonder",
+      "apus browser",
+      "vivavideo- qu video",
+      "perfect corp",
+      "virus cleaner (hi security lab",
+      "mi community",
+      "du recorder",
+      "youcam makeup",
+      "mi store",
+      "360 security",
+      "du battery saver",
+      "du browser",
+      "du cleaner",
+      "du privacy",
+      "clean master – cheetah",
+      "cacheclear du apps studio",
+      "baidu translate",
+      "baidu map",
+      "wonder camera",
+      "es file explorer",
+      "qq international",
+      "qq launcher",
+      "qq security centre",
+      "qq player",
+      "qq music",
+      "qq mail",
+      "qq newsfeed",
+      "wesync",
+      "selfiecity",
+      "clash of kings",
+      "mail master,",
+      "mi video call - xiaomi",
+      "parallel space"
     ]
   }
 }
