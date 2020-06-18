@@ -96,8 +96,8 @@
       "a": "",
       "c": "india",
       "g": [
-        "real-estate",
-        "consumer-products",
+        "real estate",
+        "consumer products",
         "industrial-engineering",
         "appliances",
         "furniture",
@@ -130,7 +130,7 @@
       "a": "",
       "c": "india",
       "g": [
-        "home-and-kitchen-appliances",
+        "kitchen appliances",
         "lighting-for-domestic",
         "commercial-and-industrial-applications",
         "LED-lighting",
@@ -158,12 +158,13 @@
       "c": "England",
       "g": [
         "FMCG",
-        "water-purifier"
+        "water purifier",
+        "food"
       ]
     },
     "hindustan uniliver": {
       "a": "Unilever",
-      "c": "india",
+      "c": "",
       "g": [
         ""
       ]
@@ -973,6 +974,144 @@
         "technology",
         "networking",
         "computer"
+      ]
+    },
+    "cleanmate": {
+      "a": "future group",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "tasty treat": {
+      "a": "future group",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "fresh & pure": {
+      "a": "future group",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "ektaa": {
+      "a": "future group",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "studds": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "automobile accessories",
+        "helmet"
+      ]
+    },
+    "vega helmet": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "automobile accessories",
+        "helmet"
+      ]
+    },
+    "bisleri": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "water",
+        "food"
+      ]
+    },
+    "micromax": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "mobile",
+        "electronics"
+      ]
+    },
+    "dell": {
+      "a": "",
+      "c": "USA",
+      "g": [
+        "Computers",
+        "laptops"
+      ]
+    },
+    "tesla": {
+      "a": "",
+      "c": "USA",
+      "g": [
+        "Electric Cars"
+      ]
+    },
+    "nestle": {
+      "a": "",
+      "c": "Swiss",
+      "g": [
+        "Food & Drink"
+      ]
+    },
+    "marico": {
+      "a": "",
+      "c": "India",
+      "g": [
+        "Oil",
+        "Deodrant",
+        "Hair Gel",
+        "Hair Cream",
+        "Hair Wax"
+      ]
+    },
+    "parachute": {
+      "a": "Marico",
+      "c": "",
+      "g": [
+        "Oil"
+      ]
+    },
+    "nihar": {
+      "a": "Marico",
+      "c": "",
+      "g": [
+        "Oil"
+      ]
+    },
+    "set wet range": {
+      "a": "Marico",
+      "c": "",
+      "g": [
+        "Deodrant",
+        "Hair Gel",
+        "Hair Cream",
+        "Hair Wax"
+      ]
+    },
+    "livon": {
+      "a": "Marico",
+      "c": "",
+      "g": [
+        "Oil Conditoner"
+      ]
+    },
+    "saffola": {
+      "a": "Marico",
+      "c": "",
+      "g": [
+        "Edible Oil"
+      ]
+    },
+    "silk & shine": {
+      "a": "Marico",
+      "c": "",
+      "g": [
+        "Hair Conditioner"
       ]
     }
   }

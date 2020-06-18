@@ -29,7 +29,8 @@
       "gionee",
       "gfive",
       "jio",
-      "vodafone"
+      "vodafone",
+      "micromax"
     ],
     "computer": [
       "apple",
@@ -42,7 +43,8 @@
       "asus"
     ],
     "laptops": [
-      "asus"
+      "asus",
+      "dell"
     ],
     "smartphones": [
       "asus"
@@ -82,7 +84,8 @@
       "usha",
       "crompton",
       "onida",
-      "daikin"
+      "daikin",
+      "micromax"
     ],
     "": [],
     "Medical-equipment": [
@@ -115,14 +118,16 @@
     ],
     "food": [
       "britannia",
+      "unilever",
       "itc",
       "parle",
-      "dabur"
+      "dabur",
+      "bisleri"
     ],
-    "real-estate": [
+    "real estate": [
       "godrej"
     ],
-    "consumer-products": [
+    "consumer products": [
       "godrej"
     ],
     "industrial-engineering": [
@@ -170,7 +175,7 @@
     "restroom-cubicles": [
       "greenply"
     ],
-    "home-and-kitchen-appliances": [
+    "kitchen appliances": [
       "havells"
     ],
     "lighting-for-domestic": [
@@ -215,7 +220,7 @@
     "services": [
       "hcl"
     ],
-    "water-purifier": [
+    "water purifier": [
       "unilever"
     ],
     "microprocessors": [
@@ -394,6 +399,56 @@
     ],
     "footwear": [
       "lakhani"
+    ],
+    "automobile accessories": [
+      "studds",
+      "vega helmet"
+    ],
+    "helmet": [
+      "studds",
+      "vega helmet"
+    ],
+    "water": [
+      "bisleri"
+    ],
+    "Computers": [
+      "dell"
+    ],
+    "Electric Cars": [
+      "tesla"
+    ],
+    "Food & Drink": [
+      "nestle"
+    ],
+    "Oil": [
+      "marico",
+      "parachute",
+      "nihar"
+    ],
+    "Deodrant": [
+      "marico",
+      "set wet range"
+    ],
+    "Hair Gel": [
+      "marico",
+      "set wet range"
+    ],
+    "Hair Cream": [
+      "marico",
+      "set wet range"
+    ],
+    "Hair Wax": [
+      "marico",
+      "set wet range"
+    ],
+    "Oil Conditoner": [
+      "livon"
+    ],
+    "Edible Oil": [
+      "saffola"
+    ],
+    "Hair Conditioner": [
+      "silk & shine"
     ]
   }
 }
