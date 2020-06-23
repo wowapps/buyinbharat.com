@@ -1569,6 +1569,198 @@
       "g": [
         "mobile app"
       ]
+    },
+    "airtel": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Telecommunications"
+      ]
+    },
+    "coca cola": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "Beverage"
+      ]
+    },
+    "pepsi": {
+      "a": "",
+      "c": "usa",
+      "g": [
+        "Beverage"
+      ]
+    },
+    "amul": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Dairy FMCG"
+      ]
+    },
+    "aditya birla": {
+      "a": "birla",
+      "c": "",
+      "g": [
+        ""
+      ]
+    },
+    "united sprits": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Alcoholic beverages"
+      ]
+    },
+    "kingfisher": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Airline",
+        "United Breweries"
+      ]
+    },
+    "tanishq": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Jewellery"
+      ]
+    },
+    "ashok leyland": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Automobiles"
+      ]
+    },
+    "vedanta resources": {
+      "a": "",
+      "c": "United Kingdom",
+      "g": [
+        "Metals and Minning"
+      ]
+    },
+    "royal enfield": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Motercycle and Manufacture"
+      ]
+    },
+    "mrf": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Tyre",
+        "Toys",
+        "Sports",
+        "Rubbers Products"
+      ]
+    },
+    "jet airways": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Airlines"
+      ]
+    },
+    "indigo": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Airlines"
+      ]
+    },
+    "videocon": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Conglomerate"
+      ]
+    },
+    "nerolac": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "industrial chemicals",
+        "decorative paints",
+        "paints",
+        "finishing products",
+        "coatings"
+      ]
+    },
+    "mphasis": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "IT",
+        "business consulting",
+        "outsourcing services"
+      ]
+    },
+    "pidilite": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Adhesives",
+        "Construction Chemicals"
+      ]
+    },
+    "air india": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Airlines"
+      ]
+    },
+    "dlf": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Real estate"
+      ]
+    },
+    "biocon": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Biotechnology"
+      ]
+    },
+    "eicher motors": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Automotive"
+      ]
+    },
+    "taj": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Hospitality"
+      ]
+    },
+    "jk": {
+      "a": "",
+      "c": "india",
+      "g": [
+        "Cement",
+        "Tyre",
+        "Paper",
+        "Software",
+        "Dairy products",
+        "Seeds",
+        "Engineering equipment"
+      ]
+    },
+    "life buoy": {
+      "a": "Unilever",
+      "c": "india",
+      "g": [
+        "soap"
+      ]
     }
   }
 }

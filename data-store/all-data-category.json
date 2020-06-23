@@ -240,14 +240,16 @@
       "itc"
     ],
     "IT": [
-      "itc"
+      "itc",
+      "mphasis"
     ],
     "beverages": [
       "itc"
     ],
     "Automobiles": [
       "mahindra",
-      "tata"
+      "tata",
+      "ashok leyland"
     ],
     "Energy": [
       "mahindra"
@@ -526,6 +528,115 @@
       "mail master,",
       "mi video call - xiaomi",
       "parallel space"
+    ],
+    "Telecommunications": [
+      "airtel"
+    ],
+    "Beverage": [
+      "coca cola",
+      "pepsi"
+    ],
+    "Dairy FMCG": [
+      "amul"
+    ],
+    "Alcoholic beverages": [
+      "united sprits"
+    ],
+    "Airline": [
+      "kingfisher"
+    ],
+    "United Breweries": [
+      "kingfisher"
+    ],
+    "Jewellery": [
+      "tanishq"
+    ],
+    "Metals and Minning": [
+      "vedanta resources"
+    ],
+    "Motercycle and Manufacture": [
+      "royal enfield"
+    ],
+    "Tyre": [
+      "mrf",
+      "jk"
+    ],
+    "Toys": [
+      "mrf"
+    ],
+    "Sports": [
+      "mrf"
+    ],
+    "Rubbers Products": [
+      "mrf"
+    ],
+    "Airlines": [
+      "jet airways",
+      "indigo",
+      "air india"
+    ],
+    "Conglomerate": [
+      "videocon"
+    ],
+    "industrial chemicals": [
+      "nerolac"
+    ],
+    "decorative paints": [
+      "nerolac"
+    ],
+    "paints": [
+      "nerolac"
+    ],
+    "finishing products": [
+      "nerolac"
+    ],
+    "coatings": [
+      "nerolac"
+    ],
+    "business consulting": [
+      "mphasis"
+    ],
+    "outsourcing services": [
+      "mphasis"
+    ],
+    "Adhesives": [
+      "pidilite"
+    ],
+    "Construction Chemicals": [
+      "pidilite"
+    ],
+    "Real estate": [
+      "dlf"
+    ],
+    "Biotechnology": [
+      "biocon"
+    ],
+    "Automotive": [
+      "eicher motors"
+    ],
+    "Hospitality": [
+      "taj"
+    ],
+    "Cement": [
+      "jk"
+    ],
+    "Paper": [
+      "jk"
+    ],
+    "Software": [
+      "jk"
+    ],
+    "Dairy products": [
+      "jk"
+    ],
+    "Seeds": [
+      "jk"
+    ],
+    "Engineering equipment": [
+      "jk"
+    ],
+    "soap": [
+      "life buoy"
     ]
   }
 }
