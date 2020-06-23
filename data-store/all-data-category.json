@@ -533,7 +533,7 @@
       "airtel"
     ],
     "Beverage": [
-      "coca cola",
+      "coca-cola",
       "pepsi"
     ],
     "Dairy FMCG": [
@@ -636,7 +636,7 @@
       "jk"
     ],
     "soap": [
-      "life buoy"
+      "lifebuoy"
     ]
   }
 }
